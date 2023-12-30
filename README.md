@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1 align="center" width="600px">👋Hi there im Arc👋</h1>
 
-<!--
-**Arctina/Arctina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🔨🧰Languages/Tools🧰🔨</h1> 
+<p align="center">
+  
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />       
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-Here are some ideas to get you started:
+          
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+          
+
+#
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaKadji&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaKadji">
+</p>
+
+
+
+<h1 align="center">👀Main Projects👀</h1>
+<p align="center">
+   
+</p>
+
+<h1 align="center">📫Other Projects Below📫</h1>
+
+
+
+
+
+<!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"--!>
